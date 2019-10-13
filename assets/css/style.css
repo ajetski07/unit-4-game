@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg/2560px-Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 75px;
+    background-color: #D0E3C4;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1 {
+    color: #2B3A67;
+    margin: 0;
+    padding: 20px 0px 0px 0px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    background-color: #E0E2DB80;
+}
+
+#crystal-one {
+    height: 75px;
+    width: 75px;
+}
+
+#crystal-two {
+    height: 75px;
+    width: 75px;
+}
+
+#crystal-three {
+    height: 75px;
+    width: 75px;
+}
+
+#crystal-four {
+    height: 75px;
+    width: 75px;
+}
+
+p {
+    color: #2B3A67;
+}
+
